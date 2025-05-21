@@ -1,1 +1,2 @@
-# FSF-Project-Buddy
+# Project-Buddy
+FSF Project 3 Group 2
